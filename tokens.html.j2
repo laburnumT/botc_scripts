@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <style>
+    body {
+      background-color: white;
+    }
+  </style>
+  <body>
+    {% for role in roles %}
+    <div style="max-width: {{ size }}px; max-height: {{ size }}px; float: left; display: block; margin-top: 10%; margin-bottom: 10%">
+  <p style="text-align: center; font-family: Arial; display: block; margin: auto; font-size: 10px">{{ role.description }}</p>
+  <img src="{{ role.img }}" width="60%" height="60%" style="display: block; margin: auto"/>
+  <p style="text-align: center; font-family: Arial"><b>{{ role.name }}</b></p>
+</div>
+    {% endfor %}
+  </body>
+</html>
+
+<!-- vim: set ft=html -->
