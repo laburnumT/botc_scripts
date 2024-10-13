@@ -4,7 +4,11 @@ import json
 
 
 def main():
-    with open("shower_of_bastards.json") as description:
+    if len(sys.argv) != 2:
+        print("Provide exactly 1 argument", file=sys.stderr)
+        exit(1)
+
+    with open(sys.argv[1]) as description:
         roles = json.load(description)[1::]
 
     l = []
