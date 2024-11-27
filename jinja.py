@@ -15,13 +15,20 @@ def main():
     for role in roles:
         try:
             with open(f"assets/descriptions/{role}.txt") as description:
-                l.append(
-                    {
-                        "description": description.read(),
-                        "name": role,
-                        "img": f"assets/icons/{role}.webp",
-                    }
-                )
+                try:
+                    with open(f"assets/count/{role}.txt") as cnt_file:
+                        cnt = int(cnt_file.read())
+                except IOError:
+                    cnt = 1
+
+                ins = {
+                    "description": description.read(),
+                    "name": role,
+                    "img": f"assets/icons/{role}.webp",
+                }
+
+                for _ in range(cnt):
+                    l.append(ins)
         except:
             print(f"{role} not present as asset", file=sys.stderr)
 
