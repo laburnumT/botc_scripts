@@ -1,18 +1,33 @@
+import argparse
 import jinja2
 import sys
 import json
+import requests
+
+
+def get_base_3():
+    res = requests.get(
+        "https://script.bloodontheclocktower.com/data/roles.json"
+    )
+    return [x["id"] for x in res.json() if "Experimental" not in x["version"]]
 
 
 def main():
-    if len(sys.argv) != 2:
-        print("Provide exactly 1 argument", file=sys.stderr)
-        exit(1)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--base-3", action="store_true")
+    parser.add_argument("filename")
+    args = parser.parse_args()
 
-    with open(sys.argv[1]) as description:
+    with open(args.filename) as description:
         roles = json.load(description)[1::]
+
+    base3_roles = get_base_3()
 
     l = []
     for role in roles:
+        if not args.base_3 and role in base3_roles:
+            continue
+
         try:
             with open(f"assets/descriptions/{role}.txt") as description:
                 try:
