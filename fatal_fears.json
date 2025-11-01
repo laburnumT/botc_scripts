@@ -4,29 +4,79 @@
     "author": "Snow",
     "name": "Fatal fears"
   },
-  "noble",
-  "investigator",
-  "pixie",
-  "highpriestess",
-  "villageidiot",
-  "fortuneteller",
-  "dreamer",
-  "savant",
-  "huntsman",
-  "artist",
-  "slayer",
-  "farmer",
-  "virgin",
-  "drunk",
-  "plaguedoctor",
-  "mutant",
-  "damsel",
-  "poisoner",
-  "harpy",
-  "witch",
-  "boffin",
-  "imp",
-  "ojo",
-  "fanggu",
-  "djinn"
+  {
+    "id": "noble"
+  },
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "highpriestess"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "huntsman"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "mutant"
+  },
+  {
+    "id": "damsel"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "harpy"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "boffin"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "ojo"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "djinn"
+  }
 ]

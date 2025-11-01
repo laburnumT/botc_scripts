@@ -4,29 +4,79 @@
     "author": "Sabotage",
     "name": "Halls of Congress v2"
   },
-  "chef",
-  "empath",
-  "sailor",
-  "towncrier",
-  "oracle",
-  "undertaker",
-  "savant",
-  "slayer",
-  "juggler",
-  "sage",
-  "mayor",
-  "virgin",
-  "pacifist",
-  "drunk",
-  "recluse",
-  "klutz",
-  "saint",
-  "devilsadvocate",
-  "spy",
-  "scarletwoman",
-  "baron",
-  "imp",
-  "vigormortis",
-  "fanggu",
-  "leviathan"
+  {
+    "id": "chef"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "sailor"
+  },
+  {
+    "id": "towncrier"
+  },
+  {
+    "id": "oracle"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "sage"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "virgin"
+  },
+  {
+    "id": "pacifist"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "devilsadvocate"
+  },
+  {
+    "id": "spy"
+  },
+  {
+    "id": "scarletwoman"
+  },
+  {
+    "id": "baron"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "leviathan"
+  }
 ]

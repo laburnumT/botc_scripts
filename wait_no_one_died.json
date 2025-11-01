@@ -4,29 +4,79 @@
     "author": "Fastest L",
     "name": "Wait no one died?"
   },
-  "investigator",
-  "librarian",
-  "shugenja",
-  "villageidiot",
-  "undertaker",
-  "innkeeper",
-  "savant",
-  "artist",
-  "juggler",
-  "cannibal",
-  "minstrel",
-  "mayor",
-  "fool",
-  "goon",
-  "plaguedoctor",
-  "klutz",
-  "puzzlemaster",
-  "pithag",
-  "wizard",
-  "xaan",
-  "summoner",
-  "yaggababble",
-  "pukka",
-  "imp",
-  "po"
+  {
+    "id": "investigator"
+  },
+  {
+    "id": "librarian"
+  },
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "cannibal"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "mayor"
+  },
+  {
+    "id": "fool"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "plaguedoctor"
+  },
+  {
+    "id": "klutz"
+  },
+  {
+    "id": "puzzlemaster"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "wizard"
+  },
+  {
+    "id": "xaan"
+  },
+  {
+    "id": "summoner"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "pukka"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "po"
+  }
 ]

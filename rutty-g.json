@@ -4,29 +4,79 @@
     "author": "Pure hatred",
     "name": "Rutty-g"
   },
-  "shugenja",
-  "pixie",
-  "preacher",
-  "villageidiot",
-  "king",
-  "innkeeper",
-  "exorcist",
-  "nightwatchman",
-  "alchemist",
-  "amnesiac",
-  "farmer",
-  "choirboy",
-  "poppygrower",
-  "ogre",
-  "lunatic",
-  "saint",
-  "heretic",
-  "mezepheles",
-  "fearmonger",
-  "psychopath",
-  "goblin",
-  "yaggababble",
-  "alhadikhia",
-  "vigormortis",
-  "fanggu"
+  {
+    "id": "shugenja"
+  },
+  {
+    "id": "pixie"
+  },
+  {
+    "id": "preacher"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "king"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "nightwatchman"
+  },
+  {
+    "id": "alchemist"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "choirboy"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "lunatic"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "heretic"
+  },
+  {
+    "id": "mezepheles"
+  },
+  {
+    "id": "fearmonger"
+  },
+  {
+    "id": "psychopath"
+  },
+  {
+    "id": "goblin"
+  },
+  {
+    "id": "yaggababble"
+  },
+  {
+    "id": "vigormortis"
+  },
+  {
+    "id": "fanggu"
+  },
+  {
+    "id": "alhadikhia"
+  }
 ]

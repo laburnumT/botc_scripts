@@ -4,27 +4,73 @@
     "author": "Okeydoke",
     "name": "VORT ON, VORT OFF (modified)"
   },
-  "chef",
-  "empath",
-  "chambermaid",
-  "dreamer",
-  "flowergirl",
-  "innkeeper",
-  "monk",
-  "exorcist",
-  "savant",
-  "juggler",
-  "philosopher",
-  "minstrel",
-  "banshee",
-  "goon",
-  "saint",
-  "sweetheart",
-  "drunk",
-  "barber",
-  "widow",
-  "poisoner",
-  "pithag",
-  "assassin",
-  "vortox"
+  {
+    "id": "chef"
+  },
+  {
+    "id": "empath"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "dreamer"
+  },
+  {
+    "id": "flowergirl"
+  },
+  {
+    "id": "innkeeper"
+  },
+  {
+    "id": "monk"
+  },
+  {
+    "id": "exorcist"
+  },
+  {
+    "id": "savant"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "juggler"
+  },
+  {
+    "id": "minstrel"
+  },
+  {
+    "id": "banshee"
+  },
+  {
+    "id": "goon"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "sweetheart"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "barber"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "assassin"
+  },
+  {
+    "id": "widow"
+  },
+  {
+    "id": "vortox"
+  }
 ]

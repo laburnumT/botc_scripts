@@ -4,29 +4,79 @@
     "author": "Crime Brûlée",
     "name": "Shower of bastards"
   },
-  "knight",
-  "balloonist",
-  "chambermaid",
-  "villageidiot",
-  "fortuneteller",
-  "philosopher",
-  "artist",
-  "soldier",
-  "amnesiac",
-  "farmer",
-  "ravenkeeper",
-  "atheist",
-  "poppygrower",
-  "ogre",
-  "drunk",
-  "recluse",
-  "saint",
-  "poisoner",
-  "witch",
-  "pithag",
-  "mastermind",
-  "lilmonsta",
-  "imp",
-  "zombuul",
-  "legion"
+  {
+    "id": "knight"
+  },
+  {
+    "id": "balloonist"
+  },
+  {
+    "id": "chambermaid"
+  },
+  {
+    "id": "villageidiot"
+  },
+  {
+    "id": "fortuneteller"
+  },
+  {
+    "id": "philosopher"
+  },
+  {
+    "id": "artist"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "amnesiac"
+  },
+  {
+    "id": "farmer"
+  },
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "atheist"
+  },
+  {
+    "id": "poppygrower"
+  },
+  {
+    "id": "ogre"
+  },
+  {
+    "id": "drunk"
+  },
+  {
+    "id": "recluse"
+  },
+  {
+    "id": "saint"
+  },
+  {
+    "id": "poisoner"
+  },
+  {
+    "id": "witch"
+  },
+  {
+    "id": "pithag"
+  },
+  {
+    "id": "mastermind"
+  },
+  {
+    "id": "lilmonsta"
+  },
+  {
+    "id": "imp"
+  },
+  {
+    "id": "zombuul"
+  },
+  {
+    "id": "legion"
+  }
 ]
